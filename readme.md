@@ -18,6 +18,9 @@
 + assets
   + dist                //打包后文件目录
   + src                 //开发源码
+    + assets            //资源文件
+      - bootsrtap.min.css
+      - logo.png
     + views             //大视图组件
       - Sign.vue        //登陆注册主组件
     + components        //子组件文件夹
@@ -394,6 +397,7 @@ form.form-group.col-md-8.col-md-offset-2
        color #e66
 </style>
 ```
+
 ## 其他组件
 
 > 可参考源码
@@ -402,7 +406,7 @@ form.form-group.col-md-8.col-md-offset-2
 * 右上角边栏
 
 
-## 跑起来
+## 跑起来(实时热加载)
 
 ```
 npm run build
