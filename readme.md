@@ -1,6 +1,7 @@
 ## vue组件化做注册登陆页面简单记录
 
 > 最近工作慌了，开始做毕设了，打算用vue做个SPA，学的不深，也算琢磨着跑了点，先理理思路，再前行，把刚刚做了的简单注册登陆页面记录下，也打下个底面，一步步来，望大神指教。
+
 > 记录时间：2015-12-30 周三 03:01
 > [单独示例源码](https://github.com/dingyiming/demo-Vue-sign)：https://github.com/dingyiming/demo-Vue-sign
 
